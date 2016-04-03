@@ -1,0 +1,6 @@
+F:\同程练习\AbstracTest\AbstracTest\bin\Debug\AbstracTest.exe.config
+F:\同程练习\AbstracTest\AbstracTest\obj\Debug\AbstracTest.csprojResolveAssemblyReference.cache
+F:\同程练习\AbstracTest\AbstracTest\bin\Debug\AbstracTest.exe
+F:\同程练习\AbstracTest\AbstracTest\bin\Debug\AbstracTest.pdb
+F:\同程练习\AbstracTest\AbstracTest\obj\Debug\AbstracTest.exe
+F:\同程练习\AbstracTest\AbstracTest\obj\Debug\AbstracTest.pdb
